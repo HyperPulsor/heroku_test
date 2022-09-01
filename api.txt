@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 9e1e328b-7dfc-4b38-8161-b9be61b0b9f3
+HEROKU_APP_NAME: makantai
